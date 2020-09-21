@@ -1,25 +1,22 @@
 {
-  "name": "javascript-products-app-oop",
+  "name": "Simple Product List Application",
   "version": "1.0.0",
-  "description": "![](docs/screenshot.png)",
+  "description": "Simple Product List Application",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
   },
   "scripts": {
     "start": "live-server src"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztWeb/javascript-products-app-oop.git"
+    "url": "git+https://github.com/neforgesumino/ProductList."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FaztWeb/javascript-products-app-oop/issues"
-  },
-  "homepage": "https://github.com/FaztWeb/javascript-products-app-oop#readme",
+  "bugs": "",
+  "homepage": "https://github.com/neforgesumino/ProductList",
   "dependencies": {
     "live-server": "^1.2.1"
   }
